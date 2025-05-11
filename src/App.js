@@ -2,8 +2,8 @@ import React from 'react';
 import DPPresentation from './DPPresentation';
 
 import './App.css';
-import FibonacciVisualization from './FibonacciVisualization ';
-import CoinChangeVisualization from './CoinChangeVisualization';
+// import FibonacciVisualization from './FibonacciVisualization ';
+// import CoinChangeVisualization from './CoinChangeVisualization';
 
 function App() {
   return (
@@ -16,7 +16,7 @@ function App() {
         <footer className="mt-8 text-center text-gray-500 text-sm">
           <p>© 2025 Dynamic Programming Tutorial</p>
           <p className="mt-2">
-            Created by Emmanuel Arhu & Cecilia Arthur
+            Created by Cecilia Arthur & Emmanuel Arhu
           </p>
         </footer>
       </div>
