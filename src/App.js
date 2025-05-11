@@ -12,7 +12,7 @@ function App() {
         <h1 className="text-3xl font-bold text-center mb-8 text-blue-700">
           Dynamic Programming: A Beginner's Guide
         </h1>
-        <CoinChangeVisualization />
+        <DPPresentation />
         <footer className="mt-8 text-center text-gray-500 text-sm">
           <p>© 2025 Dynamic Programming Tutorial</p>
           <p className="mt-2">
